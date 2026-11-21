@@ -73,9 +73,9 @@
 <!-- Repository Telemetry Animated Header -->
 <img src="https://harry-live-clock.vercel.app/api/telemetry-header" width="340" alt="Repository Telemetry" />
 
-<!-- Real-Time Activity & Contributions Deck (100% Real Synced Data) -->
+<!-- Circular Language Telemetry Wheel -->
 <p align="center">
-  <img src="https://harry-live-clock.vercel.app/api/activity?v=real_deck1" width="480" alt="Activity and Contributions" />
+  <img src="https://harry-live-clock.vercel.app/api/languages-circle?v=circle1" width="480" alt="Language Telemetry Wheel" />
 </p>
 
 <br/>
